@@ -18,7 +18,7 @@ function App() {
           <div className="icon-price-box">
             <img src={MusicIcon} alt="" />
             <div className="price">
-              <h4>annual plan</h4>
+              <strong>annual plan</strong>
               <p>$59.99/year</p>
             </div>
           </div>
