@@ -24,6 +24,7 @@ html {
 
 body {
   font-family: var(--Red-hat-font);
+  font-display: optional;
   padding: 1.5rem;
   background: url("./assets/pattern-background-mobile.svg");
   background-repeat: no-repeat;
